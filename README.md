@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Subrata</h1>
 <h3 align="center">Aspiring Full Stack Developer || Learning MERN Stack & Python</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcwOHhsdzJ4eXhsZDN1MWZ3Zmt3NXBoOHVkZ3NhYWFydm1sNHc2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BeIBRDxMXNJmg/200.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratacs&label=Profile%20views&color=0e75b6&style=flat" alt="subratacs" /> </p>
 
