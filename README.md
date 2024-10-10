@@ -1,18 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<body>
 <h1 align="center">Hello There 👋 I'm Subrata</h1>
 
-###
+
 
 <h1 align="left">:computer: About Me 💫</h1>
 
-###
+
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcwOHhsdzJ4eXhsZDN1MWZ3Zmt3NXBoOHVkZ3NhYWFydm1sNHc2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BeIBRDxMXNJmg/200.webp"  />
 
-###
+
 
 <h4 align="left">🔭 I’m currently working on my personal Projects.<br><br>🌱 I’m currently learning React , Express , DSA-Python<br><br>💬 Ask me about MERN<br><br>📫 How to reach me subrata.sarkar.cs07@gmail.com</h4>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/subratsarkar07/" target="_blank">
@@ -29,11 +33,10 @@
   </a>
 </div>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
+<hr>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
@@ -68,12 +71,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="50" alt="fedora logo"  />
 </div>
+<hr>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subratacs&show_icons=true&locale=en&layout=compact" alt="subratacs" /></p>
 
@@ -81,4 +83,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subratacs&" alt="subratacs" /></p>
 
-###
+
+
+
+
+</body>
+</html>
+
