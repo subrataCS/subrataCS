@@ -10,7 +10,8 @@
 
 
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcwOHhsdzJ4eXhsZDN1MWZ3Zmt3NXBoOHVkZ3NhYWFydm1sNHc2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BeIBRDxMXNJmg/200.webp"  />
+
+<img align="right" height="200" src='https://media.tenor.com/tAYGIaNtjl0AAAAM/pain-nagato-naruto.gif'  />
 
 
 
