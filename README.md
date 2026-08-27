@@ -15,7 +15,7 @@
 
 
 
-<h4 align="left">🔭 I’m currently working on my personal Projects.<br><br>🌱 I’m currently learning React , Express , DSA-Python<br><br>💬 Ask me about MERN<br><br>📫 How to reach me subrata.sarkar.cs07@gmail.com</h4>
+<h4 align="left">🔭 I’m currently working on my personal Projects.<br><br>🌱 I’m currently penetration testing ,Python and Linux </h4>
 
 
 
