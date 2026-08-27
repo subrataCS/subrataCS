@@ -75,14 +75,7 @@
 <hr>
 
 
-<h3 align="left">🔥   My Stats :</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subratacs&show_icons=true&locale=en&layout=compact" alt="subratacs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subratacs&show_icons=true&locale=en" alt="subratacs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subratacs" alt="subratacs" /></p>
 
 
 
